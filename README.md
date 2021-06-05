@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/vincent-dn/AzureLearn%20-%20Implement%20a%20code%20workflow%20with%20Git%20and%20GitHub/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/vincent-dn/AzureLearn%20-%20Implement%20a%20code%20workflow%20with%20Git%20and%20GitHub/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
